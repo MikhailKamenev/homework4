@@ -12,6 +12,7 @@ public class Main {
             System.out.print(f +" ");
         }
         System.out.println();
+        System.out.println();
 
         //task 2
 
